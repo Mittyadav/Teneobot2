@@ -35,8 +35,8 @@ sudo apt update && sudo apt install git nodejs npm -y
 
 2. Clone the repository
 ```bash
-git clone https://github.com/RPC-Hubs/Teneo-BOT
-cd Teneo-BOT
+git clone https://github.com/Mittyadav/Teneobot2
+cd Teneobot2
 ```
 
 3. Install required packages
@@ -51,8 +51,8 @@ npm install
 
 ```bash
 # Clone the repository
-git clone https://github.com/RPC-Hubs/Teneo-BOT
-cd Teneo-BOT
+git clone https://github.com/Mittyadav/Teneobot2
+cd Teneobot2
 ```
 
 ```bash
@@ -123,10 +123,10 @@ node main.js
 
 ## 🙋‍♂️ Support & Community
 
-- 💬 [Join RPC Community Chat](https://t.me/chat_RPC_Community)
-- 📣 [Follow RPC Hubs Channel](https://t.me/RPC_Hubs)
+- 💬 [Join RPC Community Chat](https://t.me/scripthub0)
+- 📣 [Follow RPC Hubs Channel](https://t.me/scripthub00)
 
 ---
 
-## ❤️ Made with love by the RPC Hubs Team
+## ❤️ Made with love by the script Hubs Team
 
